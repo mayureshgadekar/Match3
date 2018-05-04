@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mayuresh\documents\visual studio 2015\projects\sfml\sfml\source.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mayuresh\documents\visual studio 2015\projects\sfml\sfml\source.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mayuresh\documents\visual studio 2015\projects\sfml\sfml\source.cpp(176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\Mayuresh\Documents\Visual Studio 2015\Projects\SFML\Debug\SFML.exe
+  SFML.vcxproj -> C:\Users\Mayuresh\Documents\Visual Studio 2015\Projects\SFML\Debug\SFML.pdb (Partial PDB)
